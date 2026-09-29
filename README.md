@@ -1,44 +1,35 @@
-# Théo Jeanmart
+# Hi, I'm Théo 👋
 
-Final-year Robotics & AI Engineering student at **UPSSITECH, University of Toulouse**.
+Final-year **Robotics & AI Engineering Student** at UPSSITECH, University of Toulouse.
 
-Interested in **robotics software, autonomous systems, 3D perception, localization and path planning**, with a strong focus on ROS2 and C++.
+I work on robotics software and autonomous systems, with a particular interest in **3D perception, localization and path planning**.
 
-I previously worked as a **Robotics Software Intern at AASS, Örebro University**, focusing on 3D point-cloud registration for LiDAR and radar localization.
+- 🔬 Former Robotics Software Intern at **AASS, Örebro University**, working on 3D LiDAR/radar registration and ROS2
+- 🏎️ Scrum Master & Software Developer at **TLSe Racing Driverless**, working on path planning for an autonomous Formula Student car
+- 🤖 Currently working on an **Industry 4.0 multi-robot integration project**
+- 🎓 Looking for a **6-month final-year internship starting in March 2027**
 
-I am also a **Scrum Master & Software Developer at TLSe Racing**, working on path planning for an autonomous Formula Student race car.
+## Tech
 
-Currently looking for a **6-month final-year internship starting in March 2027**.
+**Robotics:** ROS2 · Mobile Robotics · Localization · Point-Cloud Registration · Path Planning  
+**Languages:** C++ · Python · C · Java  
+**Tools:** Linux · Git · PCL · Eigen · Ceres Solver · Gazebo · RViz2 · MoveIt 2
 
-## Technologies
+## Selected Projects
 
-**Robotics:** ROS2 · Mobile Robotics · Localization · Point-Cloud Registration · Path Planning · Robotic Kinematics  
-**Programming:** C++ · Python · C · Java  
-**Tools & Libraries:** Linux · Git · PCL · Eigen · Ceres Solver · Gazebo · RViz2 · MoveIt 2
+### Autonomous Mobile Robot
+Mobile robotic platform developed from hardware integration to autonomous navigation.
 
-## Selected Work
+### 3D Perception & Localization
+NDT-based 6-DoF LiDAR/radar registration developed during my internship at AASS, Örebro University.
 
-### 3D Perception & Localization — AASS, Örebro University
-ROS2 · C++ · LiDAR/Radar · NDT · PCL · Ceres Solver
-
-Modernization and extension of a 3D point-cloud registration framework for mobile-robot localization.
-
-### Formula Student Driverless — TLSe Racing
-Path Planning · Autonomous Systems · C++ · ROS2
-
-Path-planning development and integration for an autonomous Formula Student race car.
-
-### Autonomous Mobile Robot — UPSSITECH
-C/C++ · Python · LiDAR · Embedded Systems
-
-Design and development of a complete mobile robotic platform, from hardware integration to autonomous navigation.
+### Formula Student Driverless
+Path-planning development for TLSe Racing's autonomous Formula Student race car.
 
 ### UR3 Kinematics & Trajectory Generation
-Python · NumPy · Robot Kinematics · PyBullet
+Academic team project focused on kinematics and trajectory generation for a 6-DoF robotic manipulator.
 
-Academic team project focused on kinematic modeling and trajectory generation for a 6-DOF UR3 manipulator.
+## More about my work
 
-## Links
-
-[Portfolio](https://theojeanmart.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/theo-jeanmart-433717214)
+🌐 [Portfolio](https://theojeanmart.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/theo-jeanmart-433717214)
